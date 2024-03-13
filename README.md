@@ -22,4 +22,5 @@ Our Spotify music website frontend is built to provide users with an immersive a
 
 ## Getting Started
 
-To get started with the frontend development environment, follow @Saurabh-Helwade
+To get started with the frontend development environment, 
+follow [Saurabh Helwade](https://github.com/Saurabh-Helwade)
