@@ -6,6 +6,11 @@ Welcome to the frontend repository of our Spotify music website project. This re
 
 Our Spotify music website frontend is built to provide users with an immersive and intuitive experience for discovering and enjoying their favorite music. Utilizing modern web technologies, we aim to create a responsive and visually appealing interface that seamlessly integrates with Spotify's API to provide access to a vast library of music.
 
+## Preview
+
+![Preview](https://github.com/Saurabh-Helwade/Spotify-Clone-Frontend/blob/76dcbfb1a80fa45028dc719603ffb67a5fced880/Screenshot.png)
+
+
 ## Features
 
 - **User Authentication**: Allow users to sign in securely with their Spotify credentials.
