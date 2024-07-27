@@ -29,3 +29,7 @@ Our Spotify music website frontend is built to provide users with an immersive a
 
 To get started with the frontend development environment, 
 follow [Saurabh Helwade](https://github.com/Saurabh-Helwade)
+
+## Live Project Link
+
+[Link](https://saurabh-helwade.github.io/Spotify-Clone-Frontend/)
