@@ -32,4 +32,4 @@ follow [Saurabh Helwade](https://github.com/Saurabh-Helwade)
 
 ## Live Project Link
 
-[Link](https://saurabh-helwade.github.io/Spotify-Clone-Frontend/)
+To see live webpage [click here](https://saurabh-helwade.github.io/Spotify-Clone-Frontend/)
